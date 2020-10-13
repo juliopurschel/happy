@@ -27,10 +27,11 @@ O projeto está sendo desenvolvido utilizando as tecnologias:
 
 - Clonar Repositório: `git clone https://github.com/juliopurschel/happy.git`
 
-Ir para a pasta 'web' para rodar o front-end:
+Ir para a pasta 'web' para rodar o front-end, ou ir a pasta "backend" para rodar o back-end:
 
 - Instalar dependências: `yarn install`
 - Rodar Aplicação Front: `yarn start`
+- Rodar Aplicação Back: `yarn dev`
 
 
 Todos os arquivos incluídos aqui, incluindo este _README_, estão sob [Licença MIT](./LICENSE).<br>
